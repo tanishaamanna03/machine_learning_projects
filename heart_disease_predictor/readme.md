@@ -19,9 +19,10 @@ Features include:
 11. ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 12. HeartDisease: output class [1: heart disease, 0: Normal]
 
-- <h3>Limitations:</h3>
+<h3>Limitations:</h3>
 - Dataset is heavily skewed towards male patients
 - Potential bias due to imbalanced representation of sexes
 - Model performance may not generalize perfectly to all populations
 
-- Acknowledgements: I am a beginner who is still learning data analytics and machine learning. Therefore, this project was inspired by codes provided in tutorials and other github repositories.
+<h3>Acknowledgements:</h3>
+I am a beginner who is still learning data analytics and machine learning. Therefore, this project was inspired by codes provided in tutorials and other github repositories.
